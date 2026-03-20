@@ -1,5 +1,16 @@
 # OnTopReplica
 
+## Unofficial Japanese-localized build
+
+This repository can be used to prepare a personal, unofficial Japanese-localized build of **OnTopReplica v3.5.1**.
+The main changes in this variant are:
+
+* completed and polished the existing Japanese UI translation,
+* fixed the language selector so Japanese uses a Japan flag icon,
+* rebuilt the installer outputs as `setup.exe` and `OnTopReplica.msi`.
+
+This is not an official release from the original author.
+
 **A real-time always-on-top “replica” of a window of your choice, for Windows Vista, 7, 8, or 10.**
 
 This simple utility application shows a blank always-on-top window by default.

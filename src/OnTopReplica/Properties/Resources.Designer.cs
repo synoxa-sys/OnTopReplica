@@ -103,6 +103,16 @@ namespace OnTopReplica.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
+        internal static System.Drawing.Bitmap flag_brazil {
+            get {
+                object obj = ResourceManager.GetObject("flag_brazil", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
         internal static System.Drawing.Bitmap flag_china {
             get {
                 object obj = ResourceManager.GetObject("flag_china", resourceCulture);
@@ -146,6 +156,16 @@ namespace OnTopReplica.Properties {
         internal static System.Drawing.Bitmap flag_ita {
             get {
                 object obj = ResourceManager.GetObject("flag_ita", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+        /// </summary>
+        internal static System.Drawing.Bitmap flag_japan {
+            get {
+                object obj = ResourceManager.GetObject("flag_japan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
